@@ -1,0 +1,15 @@
+{
+  "name": "NOTdrop",
+  "description": "Test",
+  "image": "https://i.postimg.cc/jqMJ2kGB/263a-1.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    }
+  ]
+}
